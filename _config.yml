@@ -1,7 +1,7 @@
 name: SpringUp with Rabih
 favicon: null
-layout_spectrum: 0.40257749636657536
-typography_spectrum: 0.5501434558536857
+layout_spectrum: 0.24477
+typography_spectrum: 0.71827
 title: SpringUp with Rabih
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.14181941584683955
-  lightness: 0.07915170374326408
-  saturation: 0.06554229464381933
-  rhythmicContrast: 0.6448637794237584
+    - '#010101'
+    - '#e1effc'
+    - '#ce9fcc'
+    - '#857551'
+    - '#c8c441'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
